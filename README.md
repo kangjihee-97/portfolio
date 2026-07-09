@@ -50,6 +50,10 @@ Java에서 TypeScript로, 백엔드에서 프론트엔드로, SQL에서 외부 A
 
 2026.05 세미 프로젝트로 시작 → 2026.07 수료 후 개인 프로젝트로 확장 (진행 중)
 
+<img width="1904" height="825" alt="Image" src="https://github.com/user-attachments/assets/e8b0c739-342e-47b6-9c5f-db87022bfa57" />
+
+<img width="1879" height="946" alt="Image" src="https://github.com/user-attachments/assets/8ca969cd-8f14-4a6f-9c77-ba28852b0e67" />
+
 #### 개발 목표
 
 명목 수익률은 높아 보여도, 세금과 물가를 반영하면 실제 구매력은 크게 달라집니다.
