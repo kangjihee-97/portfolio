@@ -50,8 +50,6 @@ Java에서 TypeScript로, 백엔드에서 프론트엔드로, SQL에서 외부 A
 
 2026.05 세미 프로젝트로 시작 → 2026.07 수료 후 개인 프로젝트로 확장 (진행 중)
 
-<img width="1000" alt="Bridgify 메인 화면" src="https://github.com/user-attachments/assets/d07ebfee-ae7a-40dc-836c-209d9c422be0" />
-
 #### 개발 목표
 
 명목 수익률은 높아 보여도, 세금과 물가를 반영하면 실제 구매력은 크게 달라집니다.
@@ -134,15 +132,17 @@ API 키는 환경변수로만 관리해 브라우저에 노출되지 않습니�
 
 **팀 프로젝트 (3인) · 2026.05.27 ~ 2026.07.03**
 
+<img width="1000" alt="VERNALIS 통계 리포트 - KPI 및 차트" src="https://github.com/user-attachments/assets/be00c33d-6bb3-478a-ac60-aeaa2e1dab42" />
+
+<img width="1000" alt="VERNALIS 통계 리포트 - 퍼널 및 AI 인사이트" src="https://github.com/user-attachments/assets/2a014104-2bbe-4682-9e4d-ab103c6d58ae" />
+
+> 담당 구현: 채용 통계 리포트 (집계 쿼리 설계 · Chart.js 시각화 · Gemini AI 인사이트)
+
 #### 개발 목표
-
-<img width="1912" height="820" alt="Image" src="https://github.com/user-attachments/assets/be00c33d-6bb3-478a-ac60-aeaa2e1dab42" />
-
-<img width="1905" height="694" alt="Image" src="https://github.com/user-attachments/assets/2a014104-2bbe-4682-9e4d-ab103c6d58ae" />
 
 채용 담당자가 지원자를 효율적으로 관리할 수 있는 파이프라인 기반 웹 시스템.
 서류 접수부터 최종 합격까지의 단계 전이를 칸반 보드로 시각화하고,
-AI 기반 이력서 분석과 채용 통계 대시보드를 제공합니다.
+AI 기반 이력서 분석과 채용 통계 리포트를 제공합니다.
 
 #### 기술 스택
 
@@ -158,7 +158,7 @@ AI 기반 이력서 분석과 채용 통계 대시보드를 제공합니다.
 
 #### 담당 영역
 
-**📊 채용 통계 대시보드 설계 및 구현**
+**📊 채용 통계 리포트 설계 및 구현**
 - 합격률, 평균 채용 소요일, 단계별 지원자 분포, 공고별 합격/불합격 현황 등 집계 쿼리 설계
 - **채용 퍼널 이탈률** 분석 — 단계별 전환율을 계산해 채용 병목 구간을 시각화
 - 불합격 사유 TOP 5 집계
@@ -175,7 +175,7 @@ AI 기반 이력서 분석과 채용 통계 대시보드를 제공합니다.
 - 상태 변경과 `stage_history` 이력 기록을 `@Transactional`로 묶어 **정합성 보장**
   (단계는 바뀌었는데 이력이 누락되는 상황 방지)
 
-📁 [VERNALIS 소스코드](https://github.com/kangjihee-97)
+📁 [VERNALIS 소스코드](https://github.com/kangjihee-97/ATS_Project)
 
 <br>
 
