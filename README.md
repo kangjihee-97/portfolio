@@ -13,7 +13,7 @@
 
 Java에서 TypeScript로, 백엔드에서 프론트엔드로, SQL에서 외부 API 연동과 AI까지 —
 지금도 익숙하지 않은 영역으로 건너가는 중이고, 그 과정이 낯설지 않습니다.
-
+<img width="1000" alt="Bridgify 메인 화면" src="https://github.com/user-attachments/assets/d07ebfee-ae7a-40dc-836c-209d9c422be0" />
 <br>
 
 ## 🛠 기술 스택
