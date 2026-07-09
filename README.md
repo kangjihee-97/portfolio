@@ -134,11 +134,11 @@ API 키는 환경변수로만 관리해 브라우저에 노출되지 않습니�
 
 **팀 프로젝트 (3인) · 2026.05.27 ~ 2026.07.03**
 
+#### 개발 목표
+
 <img width="1912" height="820" alt="Image" src="https://github.com/user-attachments/assets/be00c33d-6bb3-478a-ac60-aeaa2e1dab42" />
 
 <img width="1905" height="694" alt="Image" src="https://github.com/user-attachments/assets/2a014104-2bbe-4682-9e4d-ab103c6d58ae" />
-
-#### 개발 목표
 
 채용 담당자가 지원자를 효율적으로 관리할 수 있는 파이프라인 기반 웹 시스템.
 서류 접수부터 최종 합격까지의 단계 전이를 칸반 보드로 시각화하고,
